@@ -2,3 +2,7 @@ body{
     background-color: red;
     box-sizing: border-box;
 }
+
+html{
+    font-family: Poppins;
+}
